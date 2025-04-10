@@ -32,23 +32,9 @@ tic-tac-toe-LLD/
 │   └── Symbol.java         // Enum for X, O, EMPTY
 
 
-## ▶️ How to Run
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-LLD.git
-   cd tic-tac-toe-LLD
-   ```
 
-2. **Compile and run**
-   ```bash
-   javac src/*.java
-   java src/Main
-   ```
 
-Or run using your favorite IDE (VS Code, IntelliJ, etc.).
-
----
 
 ## 🧪 Sample Gameplay
 
